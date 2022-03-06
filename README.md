@@ -23,16 +23,12 @@ Bom projeto!
 
 
 ## Calculadora
-Calculadora aritmética/financeira
-
 Ao fazer uma calculadora simples, você terá uma ideia de como os operadores básicos do Python funcionam, o fluxo de trabalho de entrada / saída, os tipos de dados do Python e a sintaxe básica do Python. Também é recomendável criar casos de teste manualmente para entender as restrições e verificar a funcionalidade de seu aplicativo de calculadora. Definitivamente, você deve começar com isso como um de seus primeiros projetos Python. 
 
 No recorte proposto, esperamos que você elabore um calculadora que colete os números do usuário e execute as operações matemáticas básicas (soma, subtração, produto e divisão). Além disso, você deve escolher 4 operações presentes em uma calculadora financeira e incluí-las como opção da maneira que preferir. Alguns exemplos de operações são, cálculo do valor presente, valor descontado de fluxo de caixa e cálculo da taxa interna de retorno. Lembre que a apresentação da calculadora é algo importante. Bom trabalho!
 
 
 ## Jogo da velha
-![GvCode tictactoe](https://user-images.githubusercontent.com/73006837/131929569-c64d0f5b-353e-4d51-8340-186a2ba3bb03.png)
-    
 Tic-Tac-Toe é um jogo muito comum e fácil de jogar, jogado extensivamente em notebooks. A premissa do jogo é simples. É um jogo baseado em turnos, onde o objetivo é alinhar uma trifeta de círculos ou cruzes na diagonal, horizontal ou vertical em uma grade quadrada 3 × 3 para alcançar a vitória.
     
 O desafio na criação deste jogo reside principalmente em se familiarizar com a indexação de array 2D e descobrir como verificar alinhamentos diagonais. Uma vez que isso seja resolvido, a codificação deve ser simplificada.
