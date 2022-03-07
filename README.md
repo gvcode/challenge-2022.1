@@ -5,7 +5,11 @@
 Olá!
 Se você chegou até aqui parabéns pela iniciativa! Nós já entendemos que você tem um interesse por programação e data science, por isso agora queremos ver como você aprende e se desenvolve enfrentando desafios.
 Então, aqui você vai encontrar tudo o que você precisa para essa fase do processo. Nós dividimos esse documento em três partes:
-(i)  como vai ser a estrutura do desafio; (ii) opções de challenges para você escolher e; (iii) conteúdo para aprender o básico de programação.
+
+- como vai ser a estrutura do desafio
+- opções de challenges para você escolher e
+- conteúdo para aprender o básico de programação.
+
 E aí, topa fazer parte desse desafio?
 
 Primeiramente, gostaríamos de deixar bem claro que nós não exigimos NENHUM conhecimento prévio de programação e acreditamos que com dedicação qualquer pessoa pode aprender qualquer coisa!
@@ -14,13 +18,10 @@ A programação não é algo que você aprende simplesmente vendo aulas, você p
 
 Por isso, a nossa primeira fase do Processo Seletivo 2022.1 será um desafio prático em programação, e consiste de quatro passos:
 
-Estudar a lista de projetos disponíveis e escolher um desafio 
-
-Reunir-se com o seu grupo para resolver o case
-
-Estudar o necessário para resolver o desafio
-
-Enviar até 23/03 o arquivo do desafio para o administrador do grupo em que você foi encaixado
+- Estudar a lista de projetos disponíveis e escolher um desafio 
+- Reunir-se com o seu grupo para resolver o case
+- Estudar o necessário para resolver o desafio
+- Enviar até 23/03 o arquivo do desafio para o administrador do grupo em que você foi encaixado
 
 Vale lembrar que os projetos serão avaliados conforme a dedicação e a profundidade no desafio escolhido!
 
