@@ -6,9 +6,9 @@ Olá!
 Se você chegou até aqui parabéns pela iniciativa! Nós já entendemos que você tem um interesse por programação e data science, por isso agora queremos ver como você aprende e se desenvolve enfrentando desafios.
 Então, aqui você vai encontrar tudo o que você precisa para essa fase do processo. Nós dividimos esse documento em três partes:
 
-- como vai ser a estrutura do desafio
-- opções de challenges para você escolher e
-- conteúdo para aprender o básico de programação.
+- Como vai ser a estrutura do desafio
+- Opções de challenges para você escolher e
+- Conteúdo para aprender o básico de programação.
 
 E aí, topa fazer parte desse desafio?
 
