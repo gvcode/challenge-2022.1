@@ -58,41 +58,47 @@ Escreva um programa na sua linguagem e bibliotecas preferidas que:
 
 Exemplos:
 Expressão é uma palavra:
-$ anagrama "vermelho"
 
-$ ./anagramarama "vermelho"\
-ELM HO REV\
-ELM OH REV\
-OHM REVEL\
-LEVER OHM\
-ELM HOVER\
-HOLM VEER\
-HELM OVER\
+```
+vermelho
+
+ELM HO REV
+ELM OH REV
+OHM REVEL
+LEVER OHM
+ELM HOVER
+HOLM VEER
+HELM OVER
 HELM ROVE
+```
 
 Expressão é uma frase (lembre-se de ignorar espaços e converter todas as letras para maiúsculas):
-$ ./anagramarama "oi gente"\
-GO I TEEN\
-GENE I TO\
-GET I ONE\
-EON GET I\
-ENG I TOE\
-GEE I TON\
-GEE I NOT\
-EGO I NET\
-EGO I TEN\
-GEE IT NO\
-GEE IT ON\
-GO IN TEE\
-GEE IN TO\
-GENIE TO\
-GONE TIE\
-GEE OINT\
-GEE INTO\
-GEE TONI\
-GINO TEE\
-GENE ITO\
+
+```
+oi gente
+
+GO I TEEN
+GENE I TO
+GET I ONE
+EON GET I
+ENG I TOE
+GEE I TON
+GEE I NOT
+EGO I NET
+EGO I TEN
+GEE IT NO
+GEE IT ON
+GO IN TEE
+GEE IN TO
+GENIE TO
+GONE TIE
+GEE OINT
+GEE INTO
+GEE TONI
+GINO TEE
+GENE ITO
 EGO TINE
+```
 
 ## Reversão de strings
 Este programa exigirá que você pegue uma entrada de string (matriz de caracteres) de um usuário e reorganize a string na ordem inversa, exibindo a saída para o usuário. A primeira abordagem óbvia será simplesmente inverter todos os caracteres da string, mas você pode aprimorar ainda mais este projeto alterando vários atributos do programa:
@@ -115,15 +121,15 @@ Nas ideias de projetos básicos do Python, Hangman é um dos jogos populares em 
 ## Números por extenso
 Crie um programa que receba um número, e retorne como se lê o número em uma string. Exemplo:
 
-´´´
+```
 Insira um número:
 85
 oitenta e cinco
-´´´
+```
 
 Adicionalmente, o programa pode reconhecer unidades de medida diferentes:
 
-´´´
+```
 Insira um número:
 243,00 R$
 duzentos e quarenta e três reais, e zero centavos
@@ -131,11 +137,11 @@ duzentos e quarenta e três reais, e zero centavos
 Insira um número:
 1.456,50 Kg
 uma tonelada, quatrocentos e cinquenta e seis kilos, e cinquenta gramas
-´´´
+```
 
 O programa pode reconhecer pontos divisores de algarismos (como no terceiro exemplo). Também pode perguntar em qual unidade que se quer a resposta:
 
-´´´
+```
 Insira um número:
 1.456,50 Kg
 
@@ -143,7 +149,7 @@ Insira a unidade desejada:
 kilos
 
 mil quatrocentos e cinquenta e seis kilos, e cinco décimos
-´´´
+```
 
 Quais unidades o programa aceita, bem como o número máximo que o programa consegue ler, ficam a seu encargo.
 
